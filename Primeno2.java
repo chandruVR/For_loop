@@ -1,6 +1,6 @@
 package ForLoop;
 
-public class Primeno2 {
+public class Primeno {
 	
 	void check() { 
 		 boolean a = true;
